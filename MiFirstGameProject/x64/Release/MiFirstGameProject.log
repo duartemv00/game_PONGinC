@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MiFirstGameProject.vcxproj -> C:\Users\34687\Desktop\MiFirstGameProject\x64\Release\MiFirstGameProject.exe
